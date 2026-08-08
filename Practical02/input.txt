@@ -1,0 +1,19 @@
+# Input Data
+
+The input values can be provided by the user according to the dataset
+or problem being analyzed. The user may enter any suitable X and Y
+values to plot the data and perform Least Squares Linear Regression.
+
+# Example Input
+
+Number of data points: 3
+
+X values:
+-2
+1
+3
+
+Y values:
+-1
+1
+2
